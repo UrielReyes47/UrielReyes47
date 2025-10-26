@@ -1,4 +1,4 @@
-# Uriel Reyes Polanco | Cybersecurity Portfolio 🛡️
+# Uriel Reyes Polanco | Cybersecurity-SOC-Projects 🛡️
 
 I am a Cybersecurity Student focusing on the **Tier 1 SOC Analyst** role, specializing in **Security Operations (SOC)** and **Threat Analysis**. This repository serves as a central hub for the practical evidence of my technical projects and skills.
 
