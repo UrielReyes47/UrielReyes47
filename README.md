@@ -21,7 +21,7 @@ These projects demonstrate practical application of SOC and Threat Analysis skil
 
 | Project Title | Description | Evidence (Link) |
 | :--- | :--- | :--- |
-| **1. SIEM Lab Implementation & Operation (Wazuh)** | Deployed a functional SIEM Lab for centralized log collection and correlation from Windows/Linux endpoints. | [Link to the Wazuh/SIEM Project Repository] |
+| **1. SIEM Lab Implementation & Operation (Wazuh)** | Deployed a functional SIEM Lab for centralized log collection and correlation from Windows/Linux endpoints. | [https://github.com/UrielReyes47/SIEM-Lab-Wazuh-Implementation.git] |
 | **2. Incident Response Playbook Development** | Designed a detailed Playbook for alert response (e.g., SSH Brute Force), classifying procedures using MITRE ATT&CK. | [Link to the Incident Response Playbook Repository] |
 | **3. Basic Forensic Analysis and IoC Extraction** | Analyzed network traffic (PCAPs) using Wireshark to identify C2 communication patterns and extract Indicators of Compromise (IoCs). | [Link to the Forensic Analysis Project Repository] |
 
